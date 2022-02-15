@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name= "UserName" value="Dharshini12"/>
+  <parameter name= "password" value="RWN5L3"/>
+  <parameter name= "location" value="Melbourne"/>
+  <parameter name= "Hotels" value="Hotel Sunshine" />
+  <parameter name= "Roomtype" value="Deluxe" />
+  <parameter name= "Number" value="4 - Four"/>
+  <parameter name= "InDate" value="06/02/2022"/>
+  <parameter name= "OutDate" value="09/02/2022" />
+  <parameter name= "AdultRoom" value="2 - Two" />
+  <parameter name= "ChildRoom" value="2 - Two " />
+  <parameter name= "CardType" value="Master Card" />
+  <parameter name= "ExpiryMonth" value="April" />
+  <parameter name= "ExpiryYear" value="2018" />
+  <parameter name= "FirstName" value="chintala" />
+  <parameter name= "Lastname" value="vasavi" />
+  <parameter name= "Address" value="31/1A,vijayawada,andhrapradesh" />
+  <parameter name= "CardNumber" value="567891034567875578656864576557" />
+  <parameter name= "CvvNumber" value="143" />
+  <classes>
+  <class name="org.test.HotelBooking"/>
+  
+  </classes>
+  
+
+  
+  
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

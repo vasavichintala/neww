@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="122964" started-at="2022-02-10T10:28:18Z" finished-at="2022-02-10T10:30:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="122964" started-at="2022-02-10T10:28:18Z" finished-at="2022-02-10T10:30:21Z">
+      <class name="org.com.SearchBox">
+        <test-method status="PASS" signature="tc01(java.lang.String)[pri:0, instance:org.com.SearchBox@31610302]" name="tc01" duration-ms="21963" started-at="2022-02-10T10:28:18Z" data-provider="sample" finished-at="2022-02-10T10:28:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphone ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String)[pri:0, instance:org.com.SearchBox@31610302]" name="tc01" duration-ms="13835" started-at="2022-02-10T10:28:40Z" data-provider="sample" finished-at="2022-02-10T10:28:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[onepluse]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String)[pri:0, instance:org.com.SearchBox@31610302]" name="tc01" duration-ms="21216" started-at="2022-02-10T10:28:53Z" data-provider="sample" finished-at="2022-02-10T10:29:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[airpods]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String)[pri:0, instance:org.com.SearchBox@31610302]" name="tc01" duration-ms="12488" started-at="2022-02-10T10:29:15Z" data-provider="sample" finished-at="2022-02-10T10:29:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[i watch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String)[pri:0, instance:org.com.SearchBox@31610302]" name="tc01" duration-ms="27292" started-at="2022-02-10T10:29:27Z" data-provider="sample" finished-at="2022-02-10T10:29:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lays]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String)[pri:0, instance:org.com.SearchBox@31610302]" name="tc01" duration-ms="11038" started-at="2022-02-10T10:29:54Z" data-provider="sample" finished-at="2022-02-10T10:30:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kurkure]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc01(java.lang.String)[pri:0, instance:org.com.SearchBox@31610302]" name="tc01" duration-ms="15024" started-at="2022-02-10T10:30:06Z" data-provider="sample" finished-at="2022-02-10T10:30:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dairy milk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+      </class> <!-- org.com.SearchBox -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
